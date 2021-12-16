@@ -1,0 +1,10 @@
+
+.hero {
+    background-color: #feed01;
+    border: solid red 2px;
+}
+
+.hero {
+    width: auto;
+    border: double red 2px;
+}
