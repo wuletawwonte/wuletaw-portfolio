@@ -1,12 +1,12 @@
 import * as React from "react";
-import "./Index.module.css";
+import "./index.css";
+import HeroSection from "../components/hero";
 
 const IndexPage = () => {
     return (
-        <div class="container">
-            <div class="hero">
-                <h2>Hellow World</h2>
-            </div>
+        <div class="main-content">
+            {/* Hero section  */}
+            <HeroSection />
         </div>
     );
 };
