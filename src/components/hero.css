@@ -34,7 +34,10 @@
 
 .my-picture > img {
     max-width: 50%;
-    outline: outset gold 5px;
+    border: inset gold 8px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
     border-radius: 50%;
-    border: solid transparent 4px;
+    padding: 3px;
 }
