@@ -4,7 +4,7 @@ import HeroSection from "../components/hero";
 
 const IndexPage = () => {
     return (
-        <div class="main-content">
+        <div className="main-content">
             {/* Hero section  */}
             <HeroSection />
         </div>
