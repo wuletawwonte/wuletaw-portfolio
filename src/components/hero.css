@@ -1,6 +1,32 @@
 .hero-container {
     background-color: #333333;
-    height: 80vh;
-    border: solid black 1px;
+    max-height: 80vh;
+    border: solid green 3px;
     color: white;
+}
+
+.hero-content {
+    border: double red 2px;
+    height: inherit;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.moto {
+    flex-grow: 1;
+    font-size: 2rem;
+    flex-basis: 30%;
+}
+
+.my-picture {
+    flex-basis: 70%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.my-picture > img {
+    max-width: 50%;
 }
