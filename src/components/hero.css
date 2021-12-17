@@ -19,9 +19,12 @@
 }
 
 .moto > h1 {
-    line-height: 4rem;
+    margin-top: 15px;
+
+    line-height: 3.7rem;
     font-weight: 400;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
     font-size: 3.5rem;
 }
 
@@ -34,10 +37,44 @@
 
 .my-picture > img {
     max-width: 50%;
-    border: inset gold 8px;
+    border: inset #feed01 8px;
     border-top: none;
     border-left: none;
     border-right: none;
     border-radius: 50%;
     padding: 3px;
+}
+
+.hire-btn-group {
+    margin-top: 15px;
+}
+
+.hire-me-btn {
+    padding: 0.7rem;
+    font-size: 1.3rem;
+    background-color:floralwhite;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.hire-me-btn:hover {
+    background-color: white;
+
+}
+
+.download-cv-btn {
+    cursor: pointer;
+    margin-left: 15px;
+    padding: 0.5rem;
+    font-size: 1.3rem;
+    color: white;
+    border: solid #feed01 0.2rem;
+    border-radius: 2px;
+    background-color: transparent;
+}
+
+.download-cv-btn:hover {
+    background-color: #feed01;
+    color: black;
 }
