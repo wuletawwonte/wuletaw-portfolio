@@ -1,4 +1,28 @@
 .footer-container {
     background-color: #333333;
-    min-height: 100px;
+    min-height: 200px;
+}
+
+.footer-content {
+    width: 80%;
+    margin: auto;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-content > h2 {
+    color: rgb(79, 78, 77);
+    margin-bottom: 10px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 10px;
+}
+
+.social-icons > button {
+    background-color: transparent;
+    border: none;
 }
