@@ -1,20 +1,34 @@
 .footer-container {
-    background-color: #333333;
+    background-color: black;
     min-height: 200px;
 }
 
 .footer-content {
+    height: 200px;
     width: 80%;
     margin: auto;
     padding-top: 30px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content:space-between;
 }
 
-.footer-content > h2 {
+.footer-upper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: red;
+}
+
+.footer-upper > h2 {
     color: rgb(79, 78, 77);
     margin-bottom: 10px;
+}
+
+.footer-content > span {
+    color: rgb(153, 153, 153);    
+    margin-bottom: 15px;
 }
 
 .social-icons {
