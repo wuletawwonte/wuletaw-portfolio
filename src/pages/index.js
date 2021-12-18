@@ -3,6 +3,7 @@ import "./index.css";
 import HeroSection from "../components/hero";
 import Articles from "../components/articles";
 import Footer from "../components/footer";
+import Portfolio from "../components/portfolio";
 
 const IndexPage = () => {
     return (
@@ -11,6 +12,8 @@ const IndexPage = () => {
             <HeroSection />
             {/* Articles section */}
             <Articles />
+            {/* Portfolio section */}
+            <Portfolio />
             {/* Footer section */}
             <Footer />
         </div>

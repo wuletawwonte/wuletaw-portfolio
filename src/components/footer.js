@@ -14,16 +14,16 @@ const Footer = () => {
                         <h2>Lets get in touch!</h2>
                         <div className="social-icons">
                             <button onClick="#">
-                                <img src={Twitter} />
+                                <img src={Twitter} alt="twitter" />
                             </button>
                             <button onClick="#">
-                                <img src={LinkedIn} />
+                                <img src={LinkedIn} alt="linkedin" />
                             </button>
                             <button onClick="#">
-                                <img src={Github} />
+                                <img src={Github} alt="github" />
                             </button>
                             <button onClick="#">
-                                <img src={Telegram} />
+                                <img src={Telegram} alt="telegram" />
                             </button>
                         </div>
                     </div>
