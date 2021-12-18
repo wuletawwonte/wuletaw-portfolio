@@ -28,6 +28,10 @@
     font-size: 3.5rem;
 }
 
+.moto > h2 > span {
+    color: #feed01;
+}
+
 .my-picture {
     flex-basis: 50%;
     display: flex;
