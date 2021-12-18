@@ -1,0 +1,23 @@
+.article-item-container {
+    display: flex;
+    border-radius: 10px;
+    border-top: solid #333 3px;
+    border-left: solid #333 10px;
+    border-bottom: solid #333 3px;
+    border-right: solid #333 3px;
+    padding: 10px;
+    flex-direction: column;
+}
+
+.article-item-title {
+    color: black;
+    font-size: 2rem;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+.article-item-content {
+    color: #594a4e;
+    font-size: 1.3rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
