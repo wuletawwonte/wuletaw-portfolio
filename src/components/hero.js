@@ -11,7 +11,7 @@ const HeroSection = () => {
                 <div className="hero-content">
                     <div className="moto">
                         <h2>Hi, I&#x275C;m <span>Wuletaw Wonte</span>.</h2>
-                        <h1>I&#x275C;m a full stack web developer based in Arba Minch.</h1>
+                        <h1>I&#x275C;m a full stack web and mobile app developer based in Arba Minch.</h1>
                         <div className="hire-btn-group">
                             <button className="hire-me-btn">Hire me</button>
                             <button className="download-cv-btn">
