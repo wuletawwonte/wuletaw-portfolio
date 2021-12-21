@@ -1,7 +1,7 @@
 import * as React from "react";
 import Header from "./header";
 import "./hero.css";
-import MyAvatar from "../images/me.png";
+import MyAvatar from "../images/me.jpg";
 
 const HeroSection = () => {
     return (
