@@ -37,7 +37,9 @@
 .my-picture-container {
     display: flex;
     justify-content: center;
-    align-items: center;    
+    align-items: center;
+    border-radius: 50%;
+    overflow: hidden;
 }
 
 .my-picture {
@@ -56,7 +58,7 @@
 .hire-me-btn {
     padding: 0.7rem;
     font-size: 1.3rem;
-    background-color:floralwhite;
+    background-color: floralwhite;
     border: none;
     border-radius: 2px;
     cursor: pointer;
@@ -64,7 +66,6 @@
 
 .hire-me-btn:hover {
     background-color: white;
-
 }
 
 .download-cv-btn {
