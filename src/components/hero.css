@@ -34,16 +34,16 @@
     color: #feed01;
 }
 
-.my-picture {
+.my-picture-container {
     flex-basis: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 
-.my-picture > img {
-    max-width: 50%;
-    border: inset #feed01 8px;
+.my-picture {
+    border: solid #feed01 8px;
     border-top: none;
     border-left: none;
     border-right: none;
