@@ -31,6 +31,7 @@ const HeroSection = () => {
                             imgClassName="my-picture"
                             as="div"
                             loading="lazy"
+                            objectFit="contain"
                         />
                 </div>
             </div>

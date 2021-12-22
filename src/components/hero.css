@@ -43,7 +43,7 @@
 }
 
 .my-picture {
-    border: solid #feed01 8px;
+    /* border: solid #feed01 8px; */
     border-top: none;
     border-left: none;
     border-right: none;
