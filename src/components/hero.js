@@ -25,7 +25,7 @@ const HeroSection = () => {
                         </div>
                     </div>
                         <StaticImage
-                            src="../images/me.png"
+                            src="../images/me.jpg"
                             alt="Wuletaw Wonte"
                             className="my-picture-container"
                             imgClassName="my-picture"
