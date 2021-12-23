@@ -1,0 +1,17 @@
+.portfolio-container {
+    height: 100vh;
+    margin-bottom: 50px;
+}
+
+.portfolio-content {
+    height: inherit;
+    width: 90%;
+    margin: auto;
+    background: linear-gradient(
+        to right,
+        white 0%,
+        white 60%,
+        #feed01 40%,
+        #feed01 100%
+    );
+}
