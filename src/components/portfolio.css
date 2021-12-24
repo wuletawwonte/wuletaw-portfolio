@@ -1,17 +1,26 @@
 .portfolio-container {
-    height: 100vh;
+    min-height: 100vh;
     margin-bottom: 50px;
 }
 
 .portfolio-content {
-    height: inherit;
-    width: 90%;
-    margin: auto;
+    min-height: inherit;
+    /* width: 90%;
+    margin: auto; */
     background: linear-gradient(
         to right,
-        white 0%,
-        white 60%,
-        #feed01 40%,
-        #feed01 100%
+        gray 0%,
+        gray 50%,
+        white 50%,
+        white 100%
     );
+    display: flex;
+    align-items: center;
+
+}
+
+.left-portfolio {
+    border: double red 2px;
+    flex-basis: 20%;
+    padding-left: 10%;
 }
