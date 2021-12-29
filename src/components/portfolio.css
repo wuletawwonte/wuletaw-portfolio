@@ -1,6 +1,6 @@
 .portfolio-container {
     min-height: 100vh;
-    margin-bottom: 50px;
+    /* margin-bottom: 50px; */
 }
 
 .portfolio-content {
@@ -20,7 +20,9 @@
 }
 
 .left-portfolio {
-    border: double red 2px;
     flex-basis: 20%;
     padding-left: 10%;
+    color: white;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
