@@ -1,12 +1,9 @@
 .portfolio-container {
     min-height: 100vh;
-    /* margin-bottom: 50px; */
 }
 
 .portfolio-content {
     min-height: inherit;
-    /* width: 90%;
-    margin: auto; */
     background: linear-gradient(
         to right,
         gray 0%,
