@@ -3,8 +3,8 @@
     color: white;
     background: url("../images/leftquotationmark.svg") no-repeat;
     background-color: #6f23ff;
-    background-size: 200% 80%;
-    background-position: right top;
+    background-size: 30%;
+    background-position: left -25% top 0px;
 }
 
 .hero-content {
