@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="Layer_1"
+    xml:space="preserve"
+    viewBox="0 0 500 500"
+    y="0px"
+    version="1.1"
+    enable-background="new 0 0 500 500"
+    x="0px"
+  >
+<g
+      stroke-miterlimit="10"
+    >
+	<circle
+        cy="197.42"
+        cx="263.68"
+        r="142.24"
+        stroke="#E8D121"
+        fill="#E8E421"
+    />
+	<g
+        stroke="#E8E421"
+        fill="#ECFF45"
+      >
+		<path
+          d="m245.5 57c-34.334 7.333-28.333 24-28.333 24s34.333 87.667 36.667 92.333c2.333 4.667 3.666 8 9 8s8.66-7.33 8.66-7.33l30.667-74s10.667-18.333 8-26c-9.333-16.667-46-18.333-46-18.333l-18.67 1.333z"
+      />
+		<path
+          d="m245.5 336.17c-34.334-7.333-28.333-24-28.333-24s34.333-87.667 36.667-92.333c2.333-4.667 3.666-8 9-8s8.666 7.333 8.666 7.333l30.667 74s10.667 18.333 8 26c-9.333 16.667-46 18.333-46 18.333l-18.68-1.33z"
+      />
+		<path
+          d="m403.03 179.24c-7.333-34.334-24-28.333-24-28.333s-87.667 34.333-92.334 36.667c-4.666 2.333-8 3.666-8 9s7.334 8.666 7.334 8.666l74 30.667s18.333 10.667 26 8c16.667-9.333 18.333-46 18.333-46l-1.33-18.68z"
+      />
+		<path
+          d="m123.36 179.24c7.333-34.334 24-28.333 24-28.333s87.667 34.333 92.333 36.667c4.667 2.333 8 3.666 8 9s-7.333 8.666-7.333 8.666l-74 30.667s-18.333 10.667-26 8c-16.667-9.333-18.333-46-18.333-46l1.33-18.68z"
+      />
+		<path
+          d="m152.54 111.06c-19.093 29.463-3.064 37.005-3.064 37.005s86.267 37.713 91.217 39.362c4.949 1.65 8.249 3.064 12.021-0.707 3.771-3.772 0.941-11.313 0.941-11.313l-30.641-74.011s-5.421-20.506-12.728-24.042c-18.385-5.186-45.49 19.563-45.49 19.563l-12.26 14.149z"
+      />
+		<path
+          d="m348.98 307.5c-29.463 19.094-37.005 3.064-37.005 3.064s-37.713-86.266-39.362-91.216c-1.649-4.949-3.064-8.249 0.707-12.021 3.772-3.771 11.313-0.942 11.313-0.942l74.011 30.641s20.507 5.421 24.041 12.728c5.188 18.385-19.563 45.49-19.563 45.49l-14.15 12.26z"
+      />
+		<path
+          d="m348.21 86.119c-29.463-19.093-37.005-3.064-37.005-3.064s-37.713 86.267-39.362 91.217c-1.65 4.949-3.065 8.25 0.707 12.021 3.771 3.771 11.313 0.942 11.313 0.942l74.011-30.641s20.506-5.421 24.041-12.728c5.187-18.385-19.563-45.49-19.563-45.49l-14.14-12.251z"
+      />
+		<path
+          d="m152.41 281.92c-19.092-29.463-3.064-37.005-3.064-37.005s86.268-37.713 91.217-39.362c4.95-1.65 8.25-3.064 12.021 0.707 3.771 3.772 0.942 11.313 0.942 11.313l-30.641 74.012s-5.421 20.506-12.728 24.041c-18.385 5.187-45.49-19.563-45.49-19.563l-12.26-14.15z"
+      />
+	</g
+    >
+</g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Lemon</dc:title
+        ><dc:date
+          >2013-09-28T18:10:08</dc:date
+        ><dc:description
+          >This is a simple clean lemon icon. It can be used for many different things. It's using a lemon style color guide. No textures only solid colors.</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/183946/lemon-by-cinemacookie-183946</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >cinemacookie</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >Simple</rdf:li
+            ><rdf:li
+              >clean</rdf:li
+            ><rdf:li
+              >lemon</rdf:li
+            ><rdf:li
+              >professional</rdf:li
+            ><rdf:li
+              >yellow</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>

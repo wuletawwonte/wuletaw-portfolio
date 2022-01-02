@@ -1,7 +1,10 @@
 .hero-container {
-    background-color: #6f23ff;
     min-height: 80vh;
     color: white;
+    background: url("../images/leftquotationmark.svg") no-repeat;
+    background-color: #6f23ff;
+    background-size: 200% 80%;
+    background-position: right top;
 }
 
 .hero-content {
@@ -40,16 +43,15 @@
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    overflow: hidden;
+    border: 7px;
+    border-style: solid outset;
+    border-color: #feed01 #333;
 }
 
 .my-picture {
-    /* border: solid #feed01 8px; */
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-radius: 50%;
+    border-radius: 50%; 
     padding: 3px;
+
 }
 
 .hire-btn-group {
