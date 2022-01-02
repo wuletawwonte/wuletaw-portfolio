@@ -1,0 +1,25 @@
+.portfolio-container {
+    min-height: 100vh;
+}
+
+.portfolio-content {
+    min-height: inherit;
+    background: linear-gradient(
+        to right,
+        gray 0%,
+        gray 50%,
+        white 50%,
+        white 100%
+    );
+    display: flex;
+    align-items: center;
+
+}
+
+.left-portfolio {
+    flex-basis: 20%;
+    padding-left: 10%;
+    color: white;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
