@@ -5,8 +5,10 @@ import "./header.css";
 const Header = () => {
     return (
         <div className="header-container">
+            <div className="header-content">
             <div className="logo-container"> 
                 <Link to="/" className="logo-text"><span>&#10063;</span> Wuletaw Wonte</Link>
+            </div>
             </div>
         </div>
     );

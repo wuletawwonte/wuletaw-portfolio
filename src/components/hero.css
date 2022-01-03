@@ -1,19 +1,19 @@
 .hero-container {
     min-height: 80vh;
     color: white;
-    background: url("../images/leftquotationmark.svg") no-repeat;
+    background: url("../images/leftquotationmark.svg"), url("../images/ball.svg");
     background-color: #6f23ff;
-    background-size: 30%;
-    background-position: left -25% top 0px;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 25%, 31%;
+    background-position: left -20% top -100px, right -20% bottom -100%;
 }
 
 .hero-content {
-    min-height: 80vh;
+    min-height: 70vh;
     width: 80%;
     margin: auto;
     display: flex;
     align-items: center;
-    padding-top: 30px;
     padding-bottom: 30px;
     gap: 12%;
 }
@@ -68,7 +68,7 @@
 }
 
 .hire-me-btn:hover {
-    background-color: white;
+    background-color: #fda3ff;
 }
 
 .download-cv-btn {
@@ -77,12 +77,12 @@
     padding: 0.5rem;
     font-size: 1.3rem;
     color: white;
-    border: solid #feed01 0.2rem;
+    border: solid #fda3ff 0.2rem;
     border-radius: 2px;
     background-color: transparent;
 }
 
 .download-cv-btn:hover {
-    background-color: #feed01;
+    background-color: #fda3ff;
     color: black;
 }
